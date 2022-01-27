@@ -194,6 +194,7 @@
       <workItem from="1643272803424" duration="1948000" />
       <workItem from="1643275128161" duration="947000" />
       <workItem from="1643276576450" duration="76000" />
+      <workItem from="1643277051901" duration="534000" />
     </task>
     <task id="LOCAL-00001" summary="1. ready to test random list in scatter and plt.axis[list*] ;; plt.show">
       <created>1643272037304</created>
@@ -209,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643273062808</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2. reset">
+      <created>1643277549736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643277549736</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +248,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1. ready to test random list in scatter and plt.axis[list*] ;; plt.show" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. ready to test random list in scatter and plt.axis[list*] ;; plt.show" />
+    <MESSAGE value="2. reset" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. reset" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dataVisualize$drawSimpleSquares.coverage" NAME="drawSimpleSquares 覆盖结果" MODIFIED="1642513982518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generatingDATA" />
