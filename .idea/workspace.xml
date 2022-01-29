@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe0afdc-4a0b-40d0-ba57-f6fed726f54d" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generatingDATA/randomwalk/random_walk.py" beforeDir="false" afterPath="$PROJECT_DIR$/generatingDATA/randomwalk/random_walk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generatingDATA/randomwalk/rw_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/generatingDATA/randomwalk/rw_visual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -53,7 +56,29 @@
       <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.rw_visual">
+  <component name="RunManager" selected="Python.die_visual">
+    <configuration name="ZhengTai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataVisualize" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generatingDATA/gauss_square" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generatingDATA/gauss_square/ZhengTai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,45 +101,45 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="drawSimpleSquares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="die_visual-origin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataVisualize" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generatingDATA" />
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generatingDATA/PygalTouZi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scatter/drawSimpleSquares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generatingDATA/PygalTouZi/die_visual-origin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mpl_squares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="die_visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataVisualize" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generatingDATA" />
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generatingDATA/PygalTouZi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scatter/mpl_squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generatingDATA/PygalTouZi/die_visual.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -164,42 +189,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testFuction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataVisualize" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/testFuction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.drawSimpleSquares" />
-      <item itemvalue="Python.mpl_squares" />
       <item itemvalue="Python.scatter_squares" />
-      <item itemvalue="Python.testFuction" />
       <item itemvalue="Python.rw_visual" />
+      <item itemvalue="Python.ZhengTai" />
+      <item itemvalue="Python.die_visual-origin" />
+      <item itemvalue="Python.die_visual" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.die_visual" />
+        <item itemvalue="Python.ZhengTai" />
+        <item itemvalue="Python.die_visual-origin" />
         <item itemvalue="Python.rw_visual" />
         <item itemvalue="Python.scatter_squares" />
-        <item itemvalue="Python.mpl_squares" />
-        <item itemvalue="Python.testFuction" />
-        <item itemvalue="Python.drawSimpleSquares" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +233,8 @@
       <workItem from="1643276576450" duration="76000" />
       <workItem from="1643277051901" duration="3298000" />
       <workItem from="1643337178959" duration="2081000" />
-      <workItem from="1643372200864" duration="2252000" />
+      <workItem from="1643372200864" duration="5627000" />
+      <workItem from="1643422663354" duration="3218000" />
     </task>
     <task id="LOCAL-00001" summary="1. ready to test random list in scatter and plt.axis[list*] ;; plt.show">
       <created>1643272037304</created>
@@ -260,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643277712571</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3. all set, RandomWalk by Mohyio, for win and mac time consume test.">
+      <created>1643374505296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643374505296</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,13 +301,17 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1. ready to test random list in scatter and plt.axis[list*] ;; plt.show" />
     <MESSAGE value="2. reset" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. reset" />
+    <MESSAGE value="3. all set, RandomWalk by Mohyio, for win and mac time consume test." />
+    <option name="LAST_COMMIT_MESSAGE" value="3. all set, RandomWalk by Mohyio, for win and mac time consume test." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dataVisualize$drawSimpleSquares.coverage" NAME="drawSimpleSquares 覆盖结果" MODIFIED="1642513982518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generatingDATA" />
-    <SUITE FILE_PATH="coverage/dataVisualize$rw_visual.coverage" NAME="rw_visual 覆盖结果" MODIFIED="1643374370864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generatingDATA/randomwalk" />
+    <SUITE FILE_PATH="coverage/dataVisualize$die_visual.coverage" NAME="die_visual 覆盖结果" MODIFIED="1643426966465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generatingDATA/PygalTouZi" />
+    <SUITE FILE_PATH="coverage/dataVisualize$ZhengTai.coverage" NAME="ZhengTai 覆盖结果" MODIFIED="1643426188030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generatingDATA/gauss_square" />
+    <SUITE FILE_PATH="coverage/dataVisualize$rw_visual.coverage" NAME="rw_visual 覆盖结果" MODIFIED="1643423195202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generatingDATA/randomwalk" />
     <SUITE FILE_PATH="coverage/dataVisualize$scatter_squares.coverage" NAME="scatter_squares 覆盖结果" MODIFIED="1643285013707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generatingDATA" />
   </component>
 </project>

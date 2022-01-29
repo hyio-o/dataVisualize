@@ -5,7 +5,7 @@ from random import choice
 
 class RandomWalk:
     # 生成随机漫步数据
-    def __init__(self, num_points=2**26):  # 初始化
+    def __init__(self, num_points=2**10):  # 初始化
         self.num_points = num_points
         self.x_value = [0]  # 所有随机漫步 起始 与 原点
         self.y_value = [0]
